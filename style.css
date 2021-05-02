@@ -20,7 +20,7 @@ body {
 }
 .inputs{
     margin-top: 30px;
-    width: 200px;
+    width: 300px;
     display: flex;
     justify-content: space-evenly;
 }
