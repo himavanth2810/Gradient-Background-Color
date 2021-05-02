@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* background: linear-gradient(to right,#FF9CE3, #4AB3FF); */
+    background: linear-gradient(to right,#FF9CE3, #4AB3FF); 
 }
 .title {
     font-size: 2rem;
